@@ -1,0 +1,6 @@
+@BackendApiV2_HostAddress = http://localhost:5024
+
+GET {{BackendApiV2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
